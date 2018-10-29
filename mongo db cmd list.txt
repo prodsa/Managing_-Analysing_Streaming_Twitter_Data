@@ -1,0 +1,16 @@
+"C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe"
+
+"C:\Program Files\MongoDB\Server\3.6\bin\mongo.exe"
+
+
+>show dbs
+
+>use twitter_db
+
+>show collections
+
+>coll = db.twitter_collection
+
+>coll.find()
+
+https://docs.mongodb.com/manual/reference/mongo-shell/
